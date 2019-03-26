@@ -1,4 +1,4 @@
-package org.weebreader;
+package org.weebreader.webhandle;
 
 // Based on tachiyomi's way to handle this shit.
 // https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/readmangatoday/src/eu/kanade/tachiyomi/extension/en/readmangatoday/Readmangatoday.kt
